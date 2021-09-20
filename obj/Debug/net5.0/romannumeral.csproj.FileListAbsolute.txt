@@ -1,0 +1,16 @@
+C:\Users\LTIUser\romannumeral\obj\Debug\net5.0\romannumeral.csproj.AssemblyReference.cache
+C:\Users\LTIUser\romannumeral\obj\Debug\net5.0\romannumeral.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LTIUser\romannumeral\obj\Debug\net5.0\romannumeral.AssemblyInfoInputs.cache
+C:\Users\LTIUser\romannumeral\obj\Debug\net5.0\romannumeral.AssemblyInfo.cs
+C:\Users\LTIUser\romannumeral\obj\Debug\net5.0\romannumeral.csproj.CoreCompileInputs.cache
+C:\Users\LTIUser\romannumeral\bin\Debug\net5.0\romannumeral.exe
+C:\Users\LTIUser\romannumeral\bin\Debug\net5.0\romannumeral.deps.json
+C:\Users\LTIUser\romannumeral\bin\Debug\net5.0\romannumeral.runtimeconfig.json
+C:\Users\LTIUser\romannumeral\bin\Debug\net5.0\romannumeral.runtimeconfig.dev.json
+C:\Users\LTIUser\romannumeral\bin\Debug\net5.0\romannumeral.dll
+C:\Users\LTIUser\romannumeral\bin\Debug\net5.0\ref\romannumeral.dll
+C:\Users\LTIUser\romannumeral\bin\Debug\net5.0\romannumeral.pdb
+C:\Users\LTIUser\romannumeral\obj\Debug\net5.0\romannumeral.dll
+C:\Users\LTIUser\romannumeral\obj\Debug\net5.0\ref\romannumeral.dll
+C:\Users\LTIUser\romannumeral\obj\Debug\net5.0\romannumeral.pdb
+C:\Users\LTIUser\romannumeral\obj\Debug\net5.0\romannumeral.genruntimeconfig.cache
