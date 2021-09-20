@@ -9,6 +9,13 @@ namespace romannumeral
         {
             string result = "";
 
+                if(number>3999){
+                    return result ="Error: Cannot convert numbers greater than 3999";
+                }
+
+                if(number<=0){
+                    return result ="Error: Cannot convert numbers less than or equal to 0";
+                }
             string numString = number.ToString();
 
             int digitCount = numString.Length;
