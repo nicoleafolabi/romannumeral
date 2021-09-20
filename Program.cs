@@ -6,9 +6,10 @@ namespace romannumeral
     {
         static void Main(string[] args)
         {
-            // var convert = new Convertor();
-            var romanText1 = Convertor.toRoman(3);
-            Console.WriteLine($"{romanText1}");
+            for (int i = 3999; i > 0; i -= 1)
+            {
+                Console.WriteLine($"{i} = {Convertor.toRoman(i)} = {Convertor.toInteger(Convertor.toRoman(i))}");
+            }
         }
     }
 }
